@@ -2,3 +2,8 @@ Things I need to do
 1. setup basic bot function like start 
 2. setup the schema of users and runs 
 3. then store the data in mongodb
+
+06 Feb
+-- basic functioning
+-- schema run and user 
+-- store data in mongodb
